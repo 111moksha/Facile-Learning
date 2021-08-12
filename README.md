@@ -16,12 +16,8 @@ I have used a hand tracking module and OpenCV to train the system to identify si
 
 And all of this will be happening in real-time and requires close to no installations and configurations.
 
-## SCREENSHOTS :
+## Detection :
 
-```diff
-+ GIF :
-
-```
 
 ![Screenshot](Counter.gif) 
 
